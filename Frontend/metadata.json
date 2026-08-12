@@ -1,6 +1,0 @@
-{
-  "name": "DRDO Ontology Driven AI Knowledge Management System",
-  "description": "Secure Enterprise Research & Knowledge Intelligence Platform for DRDO",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
